@@ -1,2 +1,14 @@
 # BlueCrabBot
-Основная идея проекта это создать бота для быстрого доступа к данымм содержащимся в гугл таблице, буквально по нажатию кнопки в телеграме, как в личке бота так и в группе.  Данные можно быстро менять в таблице, также моментально они будут меняться в боте. Это если коротко
+Bot: https://t.me/BlueCrabBot
+Developer: https://t.me/DaniilSemizhonov
+
+## Installation on server
+```
+pip install -r requirements.txt
+python main.py
+```
+
+## How to start bot
+```
+python main.py
+```
